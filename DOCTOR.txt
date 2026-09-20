@@ -1,0 +1,26 @@
+make: Entering directory '/home/yyt/Downloads/gnome'
+当前系统: Linux-7.0.0-31-generic-x86_64-with-glibc2.43
+源 HOME: /home/yyt → 当前 HOME: /home/yyt
+源架构: x86_64 → 当前架构: x86_64
+[已安装] bash /usr/bin/bash
+[已安装] zsh /usr/bin/zsh
+[已安装] vim /usr/bin/vim
+[已安装] nvim /usr/bin/nvim
+[已安装] starship /home/yyt/.local/bin/starship
+[已安装] fcitx5 /usr/bin/fcitx5
+[已安装] rime_deployer /usr/bin/rime_deployer
+[已安装] node /home/yyt/.nvm/versions/node/v24.21.0/bin/node
+[已安装] npm /home/yyt/.nvm/versions/node/v24.21.0/bin/npm
+[已安装] gcc /usr/bin/gcc
+[已安装] make /usr/bin/make
+[已安装] latexmk /usr/local/texlive/2026/bin/x86_64-linux/latexmk
+[已安装] biber /usr/local/texlive/2026/bin/x86_64-linux/biber
+[已安装] xelatex /usr/local/texlive/2026/bin/x86_64-linux/xelatex
+[已安装] fc-cache /usr/bin/fc-cache
+[Oh My Zsh] True
+[GNOME 会话] ubuntu:GNOME
+[提示] runtime 仅存档，Mason/venv/Treesitter 二进制在新系统重建。
+[提示] tex 配置包含 TeX Live 2026 路径；系统 TeX 可由 PATH 回退使用，完整版需 make install-tex DO=1。
+[提示] GSettings 逐项检测，旧 GNOME 无 accent-color 等键时报告跳过；扩展不盲目启用。
+[提示] 主题不会自动应用到 Flatpak 沙盒；GTK4 CSS 需单独迁移并在目标版本验证。
+make: Leaving directory '/home/yyt/Downloads/gnome'

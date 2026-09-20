@@ -1,0 +1,356 @@
+{
+  "source_home": "/home/yyt",
+  "created": "2026-09-20T06:17:29.250452",
+  "architecture": "x86_64",
+  "os_release": "PRETTY_NAME=\"Ubuntu 26.04.1 LTS\"\nNAME=\"Ubuntu\"\nVERSION_ID=\"26.04\"\nVERSION=\"26.04.1 LTS (Resolute Raccoon)\"\nVERSION_CODENAME=resolute\nID=ubuntu\nID_LIKE=debian\nHOME_URL=\"https://www.ubuntu.com/\"\nSUPPORT_URL=\"https://help.ubuntu.com/\"\nBUG_REPORT_URL=\"https://bugs.launchpad.net/ubuntu/\"\nPRIVACY_POLICY_URL=\"https://www.ubuntu.com/legal/terms-and-policies/privacy-policy\"\nUBUNTU_CODENAME=resolute\nLOGO=ubuntu-logo\n",
+  "entries": [
+    {
+      "component": "common",
+      "source": "/home/yyt/.config/shell/common",
+      "scope": "home",
+      "dest": ".config/shell/common",
+      "payload": "payload/common/home/.config/shell/common"
+    },
+    {
+      "component": "common",
+      "source": "/home/yyt/.config/shell/README.md",
+      "scope": "home",
+      "dest": ".config/shell/README.md",
+      "payload": "payload/common/home/.config/shell/README.md"
+    },
+    {
+      "component": "bash",
+      "source": "/home/yyt/.bashrc",
+      "scope": "home",
+      "dest": ".bashrc",
+      "payload": "payload/bash/home/.bashrc"
+    },
+    {
+      "component": "bash",
+      "source": "/home/yyt/.profile",
+      "scope": "home",
+      "dest": ".profile",
+      "payload": "payload/bash/home/.profile"
+    },
+    {
+      "component": "bash",
+      "source": "/home/yyt/.bash_logout",
+      "scope": "home",
+      "dest": ".bash_logout",
+      "payload": "payload/bash/home/.bash_logout"
+    },
+    {
+      "component": "bash",
+      "source": "/home/yyt/.config/shell/bash",
+      "scope": "home",
+      "dest": ".config/shell/bash",
+      "payload": "payload/bash/home/.config/shell/bash"
+    },
+    {
+      "component": "bash",
+      "source": "/home/yyt/.local/share/blesh",
+      "scope": "home",
+      "dest": ".local/share/blesh",
+      "payload": "payload/bash/home/.local/share/blesh"
+    },
+    {
+      "component": "zsh",
+      "source": "/home/yyt/.zshrc",
+      "scope": "home",
+      "dest": ".zshrc",
+      "payload": "payload/zsh/home/.zshrc"
+    },
+    {
+      "component": "zsh",
+      "source": "/home/yyt/.zprofile",
+      "scope": "home",
+      "dest": ".zprofile",
+      "payload": "payload/zsh/home/.zprofile"
+    },
+    {
+      "component": "zsh",
+      "source": "/home/yyt/.p10k.zsh",
+      "scope": "home",
+      "dest": ".p10k.zsh",
+      "payload": "payload/zsh/home/.p10k.zsh"
+    },
+    {
+      "component": "zsh",
+      "source": "/home/yyt/.config/shell/zsh",
+      "scope": "home",
+      "dest": ".config/shell/zsh",
+      "payload": "payload/zsh/home/.config/shell/zsh"
+    },
+    {
+      "component": "oh-my-zsh",
+      "source": "/home/yyt/.oh-my-zsh",
+      "scope": "home",
+      "dest": ".oh-my-zsh",
+      "payload": "payload/oh-my-zsh/home/.oh-my-zsh"
+    },
+    {
+      "component": "starship",
+      "source": "/home/yyt/.config/starship.toml",
+      "scope": "home",
+      "dest": ".config/starship.toml",
+      "payload": "payload/starship/home/.config/starship.toml"
+    },
+    {
+      "component": "vim",
+      "source": "/home/yyt/.vimrc",
+      "scope": "home",
+      "dest": ".vimrc",
+      "payload": "payload/vim/home/.vimrc"
+    },
+    {
+      "component": "vim",
+      "source": "/home/yyt/.vim/config",
+      "scope": "home",
+      "dest": ".vim/config",
+      "payload": "payload/vim/home/.vim/config"
+    },
+    {
+      "component": "vim",
+      "source": "/home/yyt/.vim/autoload",
+      "scope": "home",
+      "dest": ".vim/autoload",
+      "payload": "payload/vim/home/.vim/autoload"
+    },
+    {
+      "component": "vim",
+      "source": "/home/yyt/.vim/plugged",
+      "scope": "home",
+      "dest": ".vim/plugged",
+      "payload": "payload/vim/home/.vim/plugged"
+    },
+    {
+      "component": "vim",
+      "source": "/home/yyt/.vim/coc-settings.json",
+      "scope": "home",
+      "dest": ".vim/coc-settings.json",
+      "payload": "payload/vim/home/.vim/coc-settings.json"
+    },
+    {
+      "component": "vim",
+      "source": "/home/yyt/Templates",
+      "scope": "home",
+      "dest": "Templates",
+      "payload": "payload/vim/home/Templates"
+    },
+    {
+      "component": "vim",
+      "source": "/home/yyt/.config/coc",
+      "scope": "home",
+      "dest": ".config/coc",
+      "payload": "payload/vim/home/.config/coc"
+    },
+    {
+      "component": "vim",
+      "source": "/home/yyt/.config/EDITORS.md",
+      "scope": "home",
+      "dest": ".config/EDITORS.md",
+      "payload": "payload/vim/home/.config/EDITORS.md"
+    },
+    {
+      "component": "vim",
+      "source": "/home/yyt/.config/vim-templates.md",
+      "scope": "home",
+      "dest": ".config/vim-templates.md",
+      "payload": "payload/vim/home/.config/vim-templates.md"
+    },
+    {
+      "component": "nvim",
+      "source": "/home/yyt/.config/nvim",
+      "scope": "home",
+      "dest": ".config/nvim",
+      "payload": "payload/nvim/home/.config/nvim"
+    },
+    {
+      "component": "nvim",
+      "source": "/home/yyt/.local/share/nvim/lazy",
+      "scope": "home",
+      "dest": ".local/share/nvim/lazy",
+      "payload": "payload/nvim/home/.local/share/nvim/lazy"
+    },
+    {
+      "component": "nvim",
+      "source": "/home/yyt/.local/share/nvim/language.txt",
+      "scope": "home",
+      "dest": ".local/share/nvim/language.txt",
+      "payload": "payload/nvim/home/.local/share/nvim/language.txt"
+    },
+    {
+      "component": "tex",
+      "source": "/home/yyt/.config/shell/tex",
+      "scope": "home",
+      "dest": ".config/shell/tex",
+      "payload": "payload/tex/home/.config/shell/tex"
+    },
+    {
+      "component": "tex",
+      "source": "/home/yyt/.latexrc",
+      "scope": "home",
+      "dest": ".latexrc",
+      "payload": "payload/tex/home/.latexrc"
+    },
+    {
+      "component": "rime",
+      "source": "/home/yyt/.local/share/fcitx5/rime",
+      "scope": "home",
+      "dest": ".local/share/fcitx5/rime",
+      "payload": "payload/rime/home/.local/share/fcitx5/rime"
+    },
+    {
+      "component": "rime",
+      "source": "/home/yyt/.config/fcitx5",
+      "scope": "home",
+      "dest": ".config/fcitx5",
+      "payload": "payload/rime/home/.config/fcitx5"
+    },
+    {
+      "component": "rime",
+      "source": "/home/yyt/.config/environment.d/fcitx.conf",
+      "scope": "home",
+      "dest": ".config/environment.d/fcitx.conf",
+      "payload": "payload/rime/home/.config/environment.d/fcitx.conf"
+    },
+    {
+      "component": "rime",
+      "source": "/home/yyt/.config/autostart/org.fcitx.Fcitx5.desktop",
+      "scope": "home",
+      "dest": ".config/autostart/org.fcitx.Fcitx5.desktop",
+      "payload": "payload/rime/home/.config/autostart/org.fcitx.Fcitx5.desktop"
+    },
+    {
+      "component": "rime",
+      "source": "/home/yyt/.xinputrc",
+      "scope": "home",
+      "dest": ".xinputrc",
+      "payload": "payload/rime/home/.xinputrc"
+    },
+    {
+      "component": "theme",
+      "source": "/home/yyt/.themes",
+      "scope": "home",
+      "dest": ".themes",
+      "payload": "payload/theme/home/.themes"
+    },
+    {
+      "component": "theme",
+      "source": "/home/yyt/.local/share/icons",
+      "scope": "home",
+      "dest": ".local/share/icons",
+      "payload": "payload/theme/home/.local/share/icons"
+    },
+    {
+      "component": "theme",
+      "source": "/home/yyt/.config/gtk-3.0",
+      "scope": "home",
+      "dest": ".config/gtk-3.0",
+      "payload": "payload/theme/home/.config/gtk-3.0"
+    },
+    {
+      "component": "gtk4",
+      "source": "/home/yyt/.config/gtk-4.0",
+      "scope": "home",
+      "dest": ".config/gtk-4.0",
+      "payload": "payload/gtk4/home/.config/gtk-4.0"
+    },
+    {
+      "component": "fonts",
+      "source": "/home/yyt/.local/share/fonts",
+      "scope": "home",
+      "dest": ".local/share/fonts",
+      "payload": "payload/fonts/home/.local/share/fonts"
+    },
+    {
+      "component": "runtime",
+      "source": "/home/yyt/.local/share/nvim/mason",
+      "scope": "home",
+      "dest": ".local/share/nvim/mason",
+      "payload": "payload/runtime/home/.local/share/nvim/mason"
+    },
+    {
+      "component": "runtime",
+      "source": "/home/yyt/.local/share/nvim/site",
+      "scope": "home",
+      "dest": ".local/share/nvim/site",
+      "payload": "payload/runtime/home/.local/share/nvim/site"
+    },
+    {
+      "component": "runtime",
+      "source": "/home/yyt/.local/share/editor-python",
+      "scope": "home",
+      "dest": ".local/share/editor-python",
+      "payload": "payload/runtime/home/.local/share/editor-python"
+    },
+    {
+      "component": "grub",
+      "source": "/etc/default/grub",
+      "scope": "system",
+      "dest": "etc/default/grub",
+      "payload": "payload/grub/system/etc/default/grub"
+    },
+    {
+      "component": "grub",
+      "source": "/etc/default/grub.d",
+      "scope": "system",
+      "dest": "etc/default/grub.d",
+      "payload": "payload/grub/system/etc/default/grub.d"
+    },
+    {
+      "component": "grub",
+      "source": "/etc/grub.d",
+      "scope": "system",
+      "dest": "etc/grub.d",
+      "payload": "payload/grub/system/etc/grub.d"
+    },
+    {
+      "component": "grub",
+      "source": "/boot/grub/themes",
+      "scope": "system",
+      "dest": "boot/grub/themes",
+      "payload": "payload/grub/system/boot/grub/themes"
+    },
+    {
+      "component": "theme",
+      "source": "/usr/share/icons/whiteglass",
+      "scope": "system",
+      "dest": "usr/share/icons/whiteglass",
+      "payload": "payload/theme/system/usr/share/icons/whiteglass"
+    },
+    {
+      "component": "fonts",
+      "source": "/usr/share/fonts/truetype/ubuntu",
+      "scope": "system",
+      "dest": "usr/share/fonts/truetype/ubuntu",
+      "payload": "payload/fonts/system/usr/share/fonts/truetype/ubuntu"
+    },
+    {
+      "component": "theme",
+      "source": "/home/yyt/Pictures/pic/【哲风壁纸】Windows-极简.png",
+      "scope": "home",
+      "dest": "Pictures/pic/【哲风壁纸】Windows-极简.png",
+      "payload": "payload/theme/home/Pictures/pic/【哲风壁纸】Windows-极简.png"
+    },
+    {
+      "component": "theme",
+      "source": "/usr/share/backgrounds/ezspain-Ubuntu_Coffee_Mug_Light.png",
+      "scope": "system",
+      "dest": "usr/share/backgrounds/ezspain-Ubuntu_Coffee_Mug_Light.png",
+      "payload": "payload/theme/system/usr/share/backgrounds/ezspain-Ubuntu_Coffee_Mug_Light.png"
+    }
+  ],
+  "missing_optional": [
+    "/home/yyt/.bash_profile",
+    "/home/yyt/.bash_login",
+    "/home/yyt/.bash_aliases",
+    "/home/yyt/.inputrc",
+    "/home/yyt/.blerc",
+    "/home/yyt/.zshenv",
+    "/home/yyt/.zlogin",
+    "/home/yyt/.zlogout",
+    "/home/yyt/.fonts",
+    "/home/yyt/.config/fontconfig"
+  ]
+}

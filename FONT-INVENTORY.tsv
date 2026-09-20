@@ -1,0 +1,265 @@
+component	file	family	bytes
+fonts	home/.local/share/fonts/0xProto/0xProtoNerdFont-Bold.ttf	0xProto Nerd Font	2511552
+fonts	home/.local/share/fonts/0xProto/0xProtoNerdFont-Italic.ttf	0xProto Nerd Font	2551064
+fonts	home/.local/share/fonts/0xProto/0xProtoNerdFont-Regular.ttf	0xProto Nerd Font	2512824
+fonts	home/.local/share/fonts/0xProto/0xProtoNerdFontMono-Bold.ttf	0xProto Nerd Font Mono	2518844
+fonts	home/.local/share/fonts/0xProto/0xProtoNerdFontMono-Italic.ttf	0xProto Nerd Font Mono	2558196
+fonts	home/.local/share/fonts/0xProto/0xProtoNerdFontMono-Regular.ttf	0xProto Nerd Font Mono	2520116
+fonts	home/.local/share/fonts/0xProto/0xProtoNerdFontPropo-Bold.ttf	0xProto Nerd Font Propo	2511484
+fonts	home/.local/share/fonts/0xProto/0xProtoNerdFontPropo-Italic.ttf	0xProto Nerd Font Propo	2550992
+fonts	home/.local/share/fonts/0xProto/0xProtoNerdFontPropo-Regular.ttf	0xProto Nerd Font Propo	2512756
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-Bold.ttf	Maple Mono Normal CN	18461668
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-BoldItalic.ttf	Maple Mono Normal CN	19182360
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-ExtraBold.ttf	Maple Mono Normal CN,Maple Mono Normal CN ExtraBold	18201984
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-ExtraBoldItalic.ttf	Maple Mono Normal CN,Maple Mono Normal CN ExtraBold	18922116
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-ExtraLight.ttf	Maple Mono Normal CN,Maple Mono Normal CN ExtraLight	18508224
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-ExtraLightItalic.ttf	Maple Mono Normal CN,Maple Mono Normal CN ExtraLight	19181512
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-Italic.ttf	Maple Mono Normal CN	19225952
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-Light.ttf	Maple Mono Normal CN,Maple Mono Normal CN Light	18510776
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-LightItalic.ttf	Maple Mono Normal CN,Maple Mono Normal CN Light	19210724
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-Medium.ttf	Maple Mono Normal CN,Maple Mono Normal CN Medium	18497636
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-MediumItalic.ttf	Maple Mono Normal CN,Maple Mono Normal CN Medium	19220904
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-Regular.ttf	Maple Mono Normal CN	18508500
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-SemiBold.ttf	Maple Mono Normal CN,Maple Mono Normal CN SemiBold	18482792
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-SemiBoldItalic.ttf	Maple Mono Normal CN,Maple Mono Normal CN SemiBold	19206532
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-Thin.ttf	Maple Mono Normal CN,Maple Mono Normal CN Thin	18493696
+fonts	home/.local/share/fonts/MapleMono/MapleMonoNormal-CN-ThinItalic.ttf	Maple Mono Normal CN,Maple Mono Normal CN Thin	19135892
+fonts	home/.local/share/fonts/Microsoft/COBO____.ttf	Courant	42696
+fonts	home/.local/share/fonts/Microsoft/COB_____.ttf	Courant	42092
+fonts	home/.local/share/fonts/Microsoft/CON_____.ttf	Courant	42528
+fonts	home/.local/share/fonts/Microsoft/COO_____.ttf	Courant	43000
+fonts	home/.local/share/fonts/Microsoft/Candara.ttf	Candara	242012
+fonts	home/.local/share/fonts/Microsoft/Candarab.ttf	Candara	250772
+fonts	home/.local/share/fonts/Microsoft/Candarai.ttf	Candara	251156
+fonts	home/.local/share/fonts/Microsoft/Candaral.ttf	Candara,Candara Light	252124
+fonts	home/.local/share/fonts/Microsoft/Candarali.ttf	Candara,Candara Light	189388
+fonts	home/.local/share/fonts/Microsoft/Candaraz.ttf	Candara	254676
+fonts	home/.local/share/fonts/Microsoft/CascadiaCode.ttf	Cascadia CodeCascadia CodeCascadia CodeCascadia CodeCascadia CodeCascadia CodeCascadia Code	387948
+fonts	home/.local/share/fonts/Microsoft/CascadiaMono.ttf	Cascadia MonoCascadia MonoCascadia MonoCascadia MonoCascadia MonoCascadia MonoCascadia Mono	371352
+fonts	home/.local/share/fonts/Microsoft/DejaVuSans-Bold.ttf	DejaVu Sans	672300
+fonts	home/.local/share/fonts/Microsoft/DejaVuSans-BoldOblique.ttf	DejaVu Sans	611212
+fonts	home/.local/share/fonts/Microsoft/DejaVuSans-ExtraLight.ttf	DejaVu Sans,DejaVu Sans Light	345208
+fonts	home/.local/share/fonts/Microsoft/DejaVuSans-Oblique.ttf	DejaVu Sans	611556
+fonts	home/.local/share/fonts/Microsoft/DejaVuSans.ttf	DejaVu Sans	720012
+fonts	home/.local/share/fonts/Microsoft/DejaVuSansCondensed-Bold.ttf	DejaVu Sans,DejaVu Sans Condensed	631992
+fonts	home/.local/share/fonts/Microsoft/DejaVuSansCondensed-BoldOblique.ttf	DejaVu Sans,DejaVu Sans Condensed	580168
+fonts	home/.local/share/fonts/Microsoft/DejaVuSansCondensed-Oblique.ttf	DejaVu Sans,DejaVu Sans Condensed	576004
+fonts	home/.local/share/fonts/Microsoft/DejaVuSansCondensed.ttf	DejaVu Sans,DejaVu Sans Condensed	643852
+fonts	home/.local/share/fonts/Microsoft/DejaVuSansMono-Bold.ttf	DejaVu Sans Mono	313856
+fonts	home/.local/share/fonts/Microsoft/DejaVuSansMono-BoldOblique.ttf	DejaVu Sans Mono	235848
+fonts	home/.local/share/fonts/Microsoft/DejaVuSansMono-Oblique.ttf	DejaVu Sans Mono	241972
+fonts	home/.local/share/fonts/Microsoft/DejaVuSansMono.ttf	DejaVu Sans Mono	333636
+fonts	home/.local/share/fonts/Microsoft/DejaVuSerif-Bold.ttf	DejaVu Serif	341072
+fonts	home/.local/share/fonts/Microsoft/DejaVuSerif-BoldItalic.ttf	DejaVu Serif	332036
+fonts	home/.local/share/fonts/Microsoft/DejaVuSerif-Italic.ttf	DejaVu Serif	338776
+fonts	home/.local/share/fonts/Microsoft/DejaVuSerif.ttf	DejaVu Serif	363200
+fonts	home/.local/share/fonts/Microsoft/DejaVuSerifCondensed-Bold.ttf	DejaVu Serif,DejaVu Serif Condensed	316440
+fonts	home/.local/share/fonts/Microsoft/DejaVuSerifCondensed-BoldItalic.ttf	DejaVu Serif,DejaVu Serif Condensed	331128
+fonts	home/.local/share/fonts/Microsoft/DejaVuSerifCondensed-Italic.ttf	DejaVu Serif,DejaVu Serif Condensed	338140
+fonts	home/.local/share/fonts/Microsoft/DejaVuSerifCondensed.ttf	DejaVu Serif,DejaVu Serif Condensed	330012
+fonts	home/.local/share/fonts/Microsoft/Deng.ttf	DengXian,等线	16324168
+fonts	home/.local/share/fonts/Microsoft/Dengb.ttf	DengXian,等线	16450596
+fonts	home/.local/share/fonts/Microsoft/Dengl.ttf	DengXian,等线,DengXian Light,等线 Light	15437648
+fonts	home/.local/share/fonts/Microsoft/Gabriola.ttf	Gabriola	1806004
+fonts	home/.local/share/fonts/Microsoft/HEBO____.ttf	Helonia	40660
+fonts	home/.local/share/fonts/Microsoft/HEB_____.ttf	Helonia	39596
+fonts	home/.local/share/fonts/Microsoft/HEN_____.ttf	Helonia	39840
+fonts	home/.local/share/fonts/Microsoft/HEO_____.ttf	Helonia	41476
+fonts	home/.local/share/fonts/Microsoft/Inkfree.ttf	Ink Free	198972
+fonts	home/.local/share/fonts/Microsoft/LeelUIsl.ttf	Leelawadee UI,Leelawadee UI Semilight	386264
+fonts	home/.local/share/fonts/Microsoft/LeelaUIb.ttf	Leelawadee UI	327420
+fonts	home/.local/share/fonts/Microsoft/LeelawUI.ttf	Leelawadee UI	393764
+fonts	home/.local/share/fonts/Microsoft/MP______.ttf	MaplePi	37320
+fonts	home/.local/share/fonts/Microsoft/MaplePi.ttf	MaplePi	37320
+fonts	home/.local/share/fonts/Microsoft/Mt Extra Tiger.ttf	MT Extra Tiger	34788
+fonts	home/.local/share/fonts/Microsoft/Nirmala.ttc	Nirmala UINirmala UINirmala UI,Nirmala UI SemilightNirmala TextNirmala TextNirmala Text,Nirmala Text Semilight	5304988
+fonts	home/.local/share/fonts/Microsoft/NotoSansSC-VF.ttf	Noto Sans SCNoto Sans SCNoto Sans SCNoto Sans SCNoto Sans SCNoto Sans SCNoto Sans SCNoto Sans SC	17773244
+fonts	home/.local/share/fonts/Microsoft/NotoSerifSC-VF.ttf	Noto Serif SCNoto Serif SCNoto Serif SCNoto Serif SCNoto Serif SCNoto Serif SCNoto Serif SCNoto Serif SC	25129160
+fonts	home/.local/share/fonts/Microsoft/SYP_____.ttf	SymbolPi	37324
+fonts	home/.local/share/fonts/Microsoft/SansSerifCollection.ttf	Sans Serif Collection	3775516
+fonts	home/.local/share/fonts/Microsoft/SegUIVar.ttf	Segoe UI VariableSegoe UI VariableSegoe UI VariableSegoe UI VariableSegoe UI VariableSegoe UI VariableSegoe UI VariableSegoe UI VariableSegoe UI VariableSegoe UI VariableSegoe UI VariableSegoe UI VariableSegoe UI VariableSegoe UI VariableSegoe UI VariableSegoe UI Variable	1851000
+fonts	home/.local/share/fonts/Microsoft/SegoeIcons.ttf	Segoe Fluent Icons	461140
+fonts	home/.local/share/fonts/Microsoft/SimsunExtG.ttf	SimSun-ExtG	3549508
+fonts	home/.local/share/fonts/Microsoft/SitkaVF-Italic.ttf	Sitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka Text	558188
+fonts	home/.local/share/fonts/Microsoft/SitkaVF.ttf	Sitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka TextSitka,Sitka Text	516124
+fonts	home/.local/share/fonts/Microsoft/Symbol Tiger Expert.ttf	Symbol Tiger Expert	56724
+fonts	home/.local/share/fonts/Microsoft/Symbol Tiger.ttf	Symbol Tiger	57688
+fonts	home/.local/share/fonts/Microsoft/THBI____.ttf	Thames	51444
+fonts	home/.local/share/fonts/Microsoft/THB_____.ttf	Thames	49480
+fonts	home/.local/share/fonts/Microsoft/THI_____.ttf	Thames	51224
+fonts	home/.local/share/fonts/Microsoft/THR_____.ttf	Thames	49080
+fonts	home/.local/share/fonts/Microsoft/Tiger Expert.ttf	Tiger Expert	178620
+fonts	home/.local/share/fonts/Microsoft/Tiger.ttf	Tiger	193636
+fonts	home/.local/share/fonts/Microsoft/YuGothB.ttc	Yu Gothic,游ゴシックYu Gothic UIYu Gothic UI,Yu Gothic UI Semibold	14743864
+fonts	home/.local/share/fonts/Microsoft/YuGothL.ttc	Yu Gothic,游ゴシック,Yu Gothic Light,游ゴシック LightYu Gothic UI,Yu Gothic UI Light	13984748
+fonts	home/.local/share/fonts/Microsoft/YuGothM.ttc	Yu Gothic,游ゴシック,Yu Gothic Medium,游ゴシック MediumYu Gothic UI	13924448
+fonts	home/.local/share/fonts/Microsoft/YuGothR.ttc	Yu Gothic,游ゴシックYu Gothic UI,Yu Gothic UI Semilight	13852076
+fonts	home/.local/share/fonts/Microsoft/arial.ttf	Arial	1047208
+fonts	home/.local/share/fonts/Microsoft/arialbd.ttf	Arial	991572
+fonts	home/.local/share/fonts/Microsoft/arialbi.ttf	Arial	731964
+fonts	home/.local/share/fonts/Microsoft/ariali.ttf	Arial	728308
+fonts	home/.local/share/fonts/Microsoft/ariblk.ttf	Arial,Arial Black	167592
+fonts	home/.local/share/fonts/Microsoft/bahnschrift.ttf	BahnschriftBahnschriftBahnschriftBahnschriftBahnschriftBahnschriftBahnschriftBahnschriftBahnschriftBahnschriftBahnschriftBahnschriftBahnschriftBahnschriftBahnschriftBahnschrift	361564
+fonts	home/.local/share/fonts/Microsoft/calibri.ttf	Calibri	1681220
+fonts	home/.local/share/fonts/Microsoft/calibrib.ttf	Calibri	1647428
+fonts	home/.local/share/fonts/Microsoft/calibrii.ttf	Calibri	1228564
+fonts	home/.local/share/fonts/Microsoft/calibril.ttf	Calibri,Calibri Light	1471248
+fonts	home/.local/share/fonts/Microsoft/calibrili.ttf	Calibri,Calibri Light	1092612
+fonts	home/.local/share/fonts/Microsoft/calibriz.ttf	Calibri	1190004
+fonts	home/.local/share/fonts/Microsoft/cambria.ttc	CambriaCambria Math	1792664
+fonts	home/.local/share/fonts/Microsoft/cambriab.ttf	Cambria	841440
+fonts	home/.local/share/fonts/Microsoft/cambriai.ttf	Cambria	892620
+fonts	home/.local/share/fonts/Microsoft/cambriaz.ttf	Cambria	856672
+fonts	home/.local/share/fonts/Microsoft/comic.ttf	Comic Sans MS	272612
+fonts	home/.local/share/fonts/Microsoft/comicbd.ttf	Comic Sans MS	255972
+fonts	home/.local/share/fonts/Microsoft/comici.ttf	Comic Sans MS	255796
+fonts	home/.local/share/fonts/Microsoft/comicz.ttf	Comic Sans MS	253232
+fonts	home/.local/share/fonts/Microsoft/consola.ttf	Consolas	459180
+fonts	home/.local/share/fonts/Microsoft/consolab.ttf	Consolas	397896
+fonts	home/.local/share/fonts/Microsoft/consolai.ttf	Consolas	467584
+fonts	home/.local/share/fonts/Microsoft/consolaz.ttf	Consolas	407956
+fonts	home/.local/share/fonts/Microsoft/constan.ttf	Constantia	448376
+fonts	home/.local/share/fonts/Microsoft/constanb.ttf	Constantia	451824
+fonts	home/.local/share/fonts/Microsoft/constani.ttf	Constantia	448748
+fonts	home/.local/share/fonts/Microsoft/constanz.ttf	Constantia	455564
+fonts	home/.local/share/fonts/Microsoft/corbel.ttf	Corbel	277168
+fonts	home/.local/share/fonts/Microsoft/corbelb.ttf	Corbel	290908
+fonts	home/.local/share/fonts/Microsoft/corbeli.ttf	Corbel	284690
+fonts	home/.local/share/fonts/Microsoft/corbell.ttf	Corbel,Corbel Light	172256
+fonts	home/.local/share/fonts/Microsoft/corbelli.ttf	Corbel,Corbel Light	169228
+fonts	home/.local/share/fonts/Microsoft/corbelz.ttf	Corbel	294692
+fonts	home/.local/share/fonts/Microsoft/cour.ttf	Courier New	828760
+fonts	home/.local/share/fonts/Microsoft/courbd.ttf	Courier New	827444
+fonts	home/.local/share/fonts/Microsoft/courbi.ttf	Courier New	602956
+fonts	home/.local/share/fonts/Microsoft/couri.ttf	Courier New	692884
+fonts	home/.local/share/fonts/Microsoft/ebrima.ttf	Ebrima	949408
+fonts	home/.local/share/fonts/Microsoft/ebrimabd.ttf	Ebrima	1026388
+fonts	home/.local/share/fonts/Microsoft/euclid.ttf	Euclid	60758
+fonts	home/.local/share/fonts/Microsoft/euclidb.ttf	Euclid	58238
+fonts	home/.local/share/fonts/Microsoft/euclidbi.ttf	Euclid	70682
+fonts	home/.local/share/fonts/Microsoft/euclidi.ttf	Euclid	68584
+fonts	home/.local/share/fonts/Microsoft/eucsym.ttf	Euclid Symbol	42306
+fonts	home/.local/share/fonts/Microsoft/eucsymb.ttf	Euclid Symbol	40686
+fonts	home/.local/share/fonts/Microsoft/eucsymbi.ttf	Euclid Symbol	41276
+fonts	home/.local/share/fonts/Microsoft/eucsymi.ttf	Euclid Symbol	43452
+fonts	home/.local/share/fonts/Microsoft/euextra.ttf	Euclid Extra	29008
+fonts	home/.local/share/fonts/Microsoft/euextrab.ttf	Euclid Extra	28696
+fonts	home/.local/share/fonts/Microsoft/eufrak.ttf	Euclid Fraktur	29992
+fonts	home/.local/share/fonts/Microsoft/eufrakb.ttf	Euclid Fraktur	29190
+fonts	home/.local/share/fonts/Microsoft/eumat1.ttf	Euclid Math One	36244
+fonts	home/.local/share/fonts/Microsoft/eumat1b.ttf	Euclid Math One	36432
+fonts	home/.local/share/fonts/Microsoft/eumat2.ttf	Euclid Math Two	42516
+fonts	home/.local/share/fonts/Microsoft/eumat2b.ttf	Euclid Math Two	42036
+fonts	home/.local/share/fonts/Microsoft/fences.ttf	Fences	14308
+fonts	home/.local/share/fonts/Microsoft/framd.ttf	Franklin Gothic Medium	133632
+fonts	home/.local/share/fonts/Microsoft/framdit.ttf	Franklin Gothic Medium	148728
+fonts	home/.local/share/fonts/Microsoft/gadugi.ttf	Gadugi	242684
+fonts	home/.local/share/fonts/Microsoft/gadugib.ttf	Gadugi	249236
+fonts	home/.local/share/fonts/Microsoft/georgia.ttf	Georgia	219712
+fonts	home/.local/share/fonts/Microsoft/georgiab.ttf	Georgia	207476
+fonts	home/.local/share/fonts/Microsoft/georgiai.ttf	Georgia	208444
+fonts	home/.local/share/fonts/Microsoft/georgiaz.ttf	Georgia	211780
+fonts	home/.local/share/fonts/Microsoft/himalaya.ttf	Microsoft Himalaya	572776
+fonts	home/.local/share/fonts/Microsoft/impact.ttf	Impact	206784
+fonts	home/.local/share/fonts/Microsoft/javatext.ttf	Javanese Text	305448
+fonts	home/.local/share/fonts/Microsoft/l_10646.ttf	Lucida Sans Unicode	309516
+fonts	home/.local/share/fonts/Microsoft/lucon.ttf	Lucida Console	111108
+fonts	home/.local/share/fonts/Microsoft/malgun.ttf	Malgun Gothic,맑은 고딕	13459196
+fonts	home/.local/share/fonts/Microsoft/malgunbd.ttf	Malgun Gothic,맑은 고딕	12600392
+fonts	home/.local/share/fonts/Microsoft/malgunsl.ttf	Malgun Gothic,맑은 고딕,Malgun Gothic Semilight,맑은 고딕 Semilight	5085196
+fonts	home/.local/share/fonts/Microsoft/marlett.ttf	Marlett	27724
+fonts	home/.local/share/fonts/Microsoft/micross.ttf	Microsoft Sans Serif	888228
+fonts	home/.local/share/fonts/Microsoft/mingliub.ttc	MingLiU-ExtB,細明體-ExtBPMingLiU-ExtB,新細明體-ExtBMingLiU_HKSCS-ExtB,細明體_HKSCS-ExtBMingLiU_MSCS-ExtB,細明體_MSCS-ExtB	37112128
+fonts	home/.local/share/fonts/Microsoft/mmrtext.ttf	Myanmar Text	354796
+fonts	home/.local/share/fonts/Microsoft/mmrtextb.ttf	Myanmar Text	336660
+fonts	home/.local/share/fonts/Microsoft/monbaiti.ttf	Mongolian Baiti	289052
+fonts	home/.local/share/fonts/Microsoft/msgothic.ttc	MS Gothic,ＭＳ ゴシックMS UI GothicMS PGothic,ＭＳ Ｐゴシック	8990160
+fonts	home/.local/share/fonts/Microsoft/msjh.ttc	Microsoft JhengHei,微軟正黑體Microsoft JhengHei UI	21404172
+fonts	home/.local/share/fonts/Microsoft/msjhbd.ttc	Microsoft JhengHei,微軟正黑體Microsoft JhengHei UI	14441188
+fonts	home/.local/share/fonts/Microsoft/msjhl.ttc	Microsoft JhengHei,微軟正黑體,Microsoft JhengHei Light,微軟正黑體 LightMicrosoft JhengHei UI,Microsoft JhengHei UI Light	12877764
+fonts	home/.local/share/fonts/Microsoft/msyh.ttc	Microsoft YaHei,微软雅黑Microsoft YaHei UI	19704352
+fonts	home/.local/share/fonts/Microsoft/msyhbd.ttc	Microsoft YaHei,微软雅黑Microsoft YaHei UI	16883552
+fonts	home/.local/share/fonts/Microsoft/msyhl.ttc	Microsoft YaHei,微软雅黑,Microsoft YaHei Light,微软雅黑 LightMicrosoft YaHei UI,Microsoft YaHei UI Light	12189612
+fonts	home/.local/share/fonts/Microsoft/msyi.ttf	Microsoft Yi Baiti	301180
+fonts	home/.local/share/fonts/Microsoft/mtextra.ttf	MT Extra	27092
+fonts	home/.local/share/fonts/Microsoft/mvboli.ttf	MV Boli	79320
+fonts	home/.local/share/fonts/Microsoft/ntailu.ttf	Microsoft New Tai Lue	74464
+fonts	home/.local/share/fonts/Microsoft/ntailub.ttf	Microsoft New Tai Lue	67168
+fonts	home/.local/share/fonts/Microsoft/pala.ttf	Palatino Linotype	472284
+fonts	home/.local/share/fonts/Microsoft/palab.ttf	Palatino Linotype	419932
+fonts	home/.local/share/fonts/Microsoft/palabi.ttf	Palatino Linotype	335292
+fonts	home/.local/share/fonts/Microsoft/palai.ttf	Palatino Linotype	413708
+fonts	home/.local/share/fonts/Microsoft/phagspa.ttf	Microsoft PhagsPa	93720
+fonts	home/.local/share/fonts/Microsoft/phagspab.ttf	Microsoft PhagsPa	97476
+fonts	home/.local/share/fonts/Microsoft/segmdl2.ttf	Segoe MDL2 Assets	283820
+fonts	home/.local/share/fonts/Microsoft/segoepr.ttf	Segoe Print	168404
+fonts	home/.local/share/fonts/Microsoft/segoeprb.ttf	Segoe Print	167800
+fonts	home/.local/share/fonts/Microsoft/segoesc.ttf	Segoe Script	597476
+fonts	home/.local/share/fonts/Microsoft/segoescb.ttf	Segoe Script	593028
+fonts	home/.local/share/fonts/Microsoft/segoeui.ttf	Segoe UI	975268
+fonts	home/.local/share/fonts/Microsoft/segoeuib.ttf	Segoe UI	962860
+fonts	home/.local/share/fonts/Microsoft/segoeuii.ttf	Segoe UI	529224
+fonts	home/.local/share/fonts/Microsoft/segoeuil.ttf	Segoe UI,Segoe UI Light	926020
+fonts	home/.local/share/fonts/Microsoft/segoeuisl.ttf	Segoe UI,Segoe UI Semilight	864288
+fonts	home/.local/share/fonts/Microsoft/segoeuiz.ttf	Segoe UI	540868
+fonts	home/.local/share/fonts/Microsoft/seguibl.ttf	Segoe UI,Segoe UI Black	317164
+fonts	home/.local/share/fonts/Microsoft/seguibli.ttf	Segoe UI,Segoe UI Black	348744
+fonts	home/.local/share/fonts/Microsoft/seguiemj.ttf	Segoe UI Emoji	12450664
+fonts	home/.local/share/fonts/Microsoft/seguihis.ttf	Segoe UI Historic	1622060
+fonts	home/.local/share/fonts/Microsoft/seguili.ttf	Segoe UI,Segoe UI Light	457008
+fonts	home/.local/share/fonts/Microsoft/seguisb.ttf	Segoe UI,Segoe UI Semibold	991376
+fonts	home/.local/share/fonts/Microsoft/seguisbi.ttf	Segoe UI,Segoe UI Semibold	454696
+fonts	home/.local/share/fonts/Microsoft/seguisli.ttf	Segoe UI,Segoe UI Semilight	434400
+fonts	home/.local/share/fonts/Microsoft/seguisym.ttf	Segoe UI Symbol	2514056
+fonts	home/.local/share/fonts/Microsoft/simfang.ttf	FangSong,仿宋	10580176
+fonts	home/.local/share/fonts/Microsoft/simhei.ttf	SimHei,黑体	9755440
+fonts	home/.local/share/fonts/Microsoft/simkai.ttf	KaiTi,楷体	11789376
+fonts	home/.local/share/fonts/Microsoft/simsun.ttc	SimSun,宋体NSimSun,新宋体	18070492
+fonts	home/.local/share/fonts/Microsoft/simsunb.ttf	SimSun-ExtB	21894056
+fonts	home/.local/share/fonts/Microsoft/sylfaen.ttf	Sylfaen	260108
+fonts	home/.local/share/fonts/Microsoft/symbol.ttf	Symbol	69036
+fonts	home/.local/share/fonts/Microsoft/tahoma.ttf	Tahoma	948860
+fonts	home/.local/share/fonts/Microsoft/tahomabd.ttf	Tahoma	877632
+fonts	home/.local/share/fonts/Microsoft/taile.ttf	Microsoft Tai Le	67568
+fonts	home/.local/share/fonts/Microsoft/taileb.ttf	Microsoft Tai Le	58532
+fonts	home/.local/share/fonts/Microsoft/times.ttf	Times New Roman	1198496
+fonts	home/.local/share/fonts/Microsoft/timesbd.ttf	Times New Roman	1177472
+fonts	home/.local/share/fonts/Microsoft/timesbi.ttf	Times New Roman	920012
+fonts	home/.local/share/fonts/Microsoft/timesi.ttf	Times New Roman	978952
+fonts	home/.local/share/fonts/Microsoft/trebuc.ttf	Trebuchet MS	254396
+fonts	home/.local/share/fonts/Microsoft/trebucbd.ttf	Trebuchet MS	244124
+fonts	home/.local/share/fonts/Microsoft/trebucbi.ttf	Trebuchet MS	225868
+fonts	home/.local/share/fonts/Microsoft/trebucit.ttf	Trebuchet MS	252224
+fonts	home/.local/share/fonts/Microsoft/verdana.ttf	Verdana	243304
+fonts	home/.local/share/fonts/Microsoft/verdanab.ttf	Verdana	211260
+fonts	home/.local/share/fonts/Microsoft/verdanai.ttf	Verdana	223268
+fonts	home/.local/share/fonts/Microsoft/verdanaz.ttf	Verdana	229800
+fonts	home/.local/share/fonts/Microsoft/webdings.ttf	Webdings	120560
+fonts	home/.local/share/fonts/Microsoft/wingding.ttf	Wingdings	82180
+fonts	home/.local/share/fonts/Microsoft/仿宋_GB2312.ttf	FangSong_GB2312,仿宋_GB2312	3996872
+fonts	home/.local/share/fonts/Microsoft/方正小标宋简体.ttf	FZXiaoBiaoSong-B05S,方正小标宋简体	3805480
+fonts	home/.local/share/fonts/Microsoft/方正行楷简体.ttf	FZXingKai-S04S,方正行楷简体	5031844
+fonts	home/.local/share/fonts/Microsoft/方正魏碑简体.ttf	FZWeiBei-S03S,方正魏碑简体	5019416
+fonts	home/.local/share/fonts/Microsoft/楷体_GB2312.ttf	KaiTi_GB2312,楷体_GB2312	4135804
+fonts	system/usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf	UbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntu	1072960
+fonts	system/usr/share/fonts/truetype/ubuntu/Ubuntu-BI.ttf	UbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntu	679224
+fonts	system/usr/share/fonts/truetype/ubuntu/Ubuntu-C.ttf	UbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntu	1072960
+fonts	system/usr/share/fonts/truetype/ubuntu/Ubuntu-Italic[wdth,wght].ttf	UbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntu	679224
+fonts	system/usr/share/fonts/truetype/ubuntu/Ubuntu-L.ttf	UbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntu	1072960
+fonts	system/usr/share/fonts/truetype/ubuntu/Ubuntu-LI.ttf	UbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntu	679224
+fonts	system/usr/share/fonts/truetype/ubuntu/Ubuntu-M.ttf	UbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntu	1072960
+fonts	system/usr/share/fonts/truetype/ubuntu/Ubuntu-MI.ttf	UbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntu	679224
+fonts	system/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf	UbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntu	1072960
+fonts	system/usr/share/fonts/truetype/ubuntu/Ubuntu-RI.ttf	UbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntu	679224
+fonts	system/usr/share/fonts/truetype/ubuntu/Ubuntu-Th.ttf	UbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntu	1072960
+fonts	system/usr/share/fonts/truetype/ubuntu/UbuntuMono-B.ttf	Ubuntu MonoUbuntu MonoUbuntu MonoUbuntu Mono	172232
+fonts	system/usr/share/fonts/truetype/ubuntu/UbuntuMono-BI.ttf	Ubuntu MonoUbuntu MonoUbuntu MonoUbuntu Mono	172196
+fonts	system/usr/share/fonts/truetype/ubuntu/UbuntuMono-Italic[wght].ttf	Ubuntu MonoUbuntu MonoUbuntu MonoUbuntu Mono	172196
+fonts	system/usr/share/fonts/truetype/ubuntu/UbuntuMono-R.ttf	Ubuntu MonoUbuntu MonoUbuntu MonoUbuntu Mono	172232
+fonts	system/usr/share/fonts/truetype/ubuntu/UbuntuMono-RI.ttf	Ubuntu MonoUbuntu MonoUbuntu MonoUbuntu Mono	172196
+fonts	system/usr/share/fonts/truetype/ubuntu/UbuntuMono[wght].ttf	Ubuntu MonoUbuntu MonoUbuntu MonoUbuntu Mono	172232
+fonts	system/usr/share/fonts/truetype/ubuntu/UbuntuSans-Italic[wdth,wght].ttf	Ubuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu Sans	738444
+fonts	system/usr/share/fonts/truetype/ubuntu/UbuntuSansMono-Italic[wght].ttf	Ubuntu Sans MonoUbuntu Sans MonoUbuntu Sans MonoUbuntu Sans MonoUbuntu Sans Mono	186356
+fonts	system/usr/share/fonts/truetype/ubuntu/UbuntuSansMono[wght].ttf	Ubuntu Sans MonoUbuntu Sans MonoUbuntu Sans MonoUbuntu Sans MonoUbuntu Sans MonoUbuntu Sans MonoUbuntu Sans MonoUbuntu Sans Mono	230324
+fonts	system/usr/share/fonts/truetype/ubuntu/UbuntuSans[wdth,wght].ttf	Ubuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu SansUbuntu Sans	1080900
+fonts	system/usr/share/fonts/truetype/ubuntu/Ubuntu[wdth,wght].ttf	UbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntuUbuntu	1072960

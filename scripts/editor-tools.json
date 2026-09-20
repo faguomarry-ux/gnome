@@ -1,0 +1,16 @@
+[
+  "basedpyright",
+  "clangd",
+  "codelldb",
+  "debugpy",
+  "latexindent",
+  "lua-language-server",
+  "prettier",
+  "ruff",
+  "rust-analyzer",
+  "shfmt",
+  "stylua",
+  "taplo",
+  "texlab",
+  "tree-sitter-cli"
+]

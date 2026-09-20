@@ -1,0 +1,27 @@
+[
+  {
+    "database": "french_input.userdb",
+    "files": 10,
+    "stable_during_copy": true
+  },
+  {
+    "database": "programming_en.userdb",
+    "files": 8,
+    "stable_during_copy": true
+  },
+  {
+    "database": "melt_eng.userdb",
+    "files": 9,
+    "stable_during_copy": true
+  },
+  {
+    "database": "academic_en_complete.userdb",
+    "files": 9,
+    "stable_during_copy": true
+  },
+  {
+    "database": "rime_ice.userdb",
+    "files": 10,
+    "stable_during_copy": true
+  }
+]

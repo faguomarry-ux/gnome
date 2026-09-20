@@ -1,0 +1,43 @@
+make: Entering directory '/home/yyt/Downloads/gnome'
+[预览] common: /home/yyt/Downloads/gnome/payload/common/home/.config/shell/common → /home/yyt/.config/shell/common
+[预览] common: /home/yyt/Downloads/gnome/payload/common/home/.config/shell/README.md → /home/yyt/.config/shell/README.md
+[预览] bash: /home/yyt/Downloads/gnome/payload/bash/home/.bashrc → /home/yyt/.bashrc
+[预览] bash: /home/yyt/Downloads/gnome/payload/bash/home/.profile → /home/yyt/.profile
+[预览] bash: /home/yyt/Downloads/gnome/payload/bash/home/.bash_logout → /home/yyt/.bash_logout
+[预览] bash: /home/yyt/Downloads/gnome/payload/bash/home/.config/shell/bash → /home/yyt/.config/shell/bash
+[预览] bash: /home/yyt/Downloads/gnome/payload/bash/home/.local/share/blesh → /home/yyt/.local/share/blesh
+[预览] zsh: /home/yyt/Downloads/gnome/payload/zsh/home/.zshrc → /home/yyt/.zshrc
+[预览] zsh: /home/yyt/Downloads/gnome/payload/zsh/home/.zprofile → /home/yyt/.zprofile
+[预览] zsh: /home/yyt/Downloads/gnome/payload/zsh/home/.p10k.zsh → /home/yyt/.p10k.zsh
+[预览] zsh: /home/yyt/Downloads/gnome/payload/zsh/home/.config/shell/zsh → /home/yyt/.config/shell/zsh
+[预览] oh-my-zsh: /home/yyt/Downloads/gnome/payload/oh-my-zsh/home/.oh-my-zsh → /home/yyt/.oh-my-zsh
+[预览] starship: /home/yyt/Downloads/gnome/payload/starship/home/.config/starship.toml → /home/yyt/.config/starship.toml
+[预览] vim: /home/yyt/Downloads/gnome/payload/vim/home/.vimrc → /home/yyt/.vimrc
+[预览] vim: /home/yyt/Downloads/gnome/payload/vim/home/.vim/config → /home/yyt/.vim/config
+[预览] vim: /home/yyt/Downloads/gnome/payload/vim/home/.vim/autoload → /home/yyt/.vim/autoload
+[预览] vim: /home/yyt/Downloads/gnome/payload/vim/home/.vim/plugged → /home/yyt/.vim/plugged
+[预览] vim: /home/yyt/Downloads/gnome/payload/vim/home/.vim/coc-settings.json → /home/yyt/.vim/coc-settings.json
+[预览] vim: /home/yyt/Downloads/gnome/payload/vim/home/Templates → /home/yyt/Templates
+[预览] vim: /home/yyt/Downloads/gnome/payload/vim/home/.config/coc → /home/yyt/.config/coc
+[预览] vim: /home/yyt/Downloads/gnome/payload/vim/home/.config/EDITORS.md → /home/yyt/.config/EDITORS.md
+[预览] vim: /home/yyt/Downloads/gnome/payload/vim/home/.config/vim-templates.md → /home/yyt/.config/vim-templates.md
+[预览] nvim: /home/yyt/Downloads/gnome/payload/nvim/home/.config/nvim → /home/yyt/.config/nvim
+[预览] nvim: /home/yyt/Downloads/gnome/payload/nvim/home/.local/share/nvim/lazy → /home/yyt/.local/share/nvim/lazy
+[预览] nvim: /home/yyt/Downloads/gnome/payload/nvim/home/.local/share/nvim/language.txt → /home/yyt/.local/share/nvim/language.txt
+[预览] tex: /home/yyt/Downloads/gnome/payload/tex/home/.config/shell/tex → /home/yyt/.config/shell/tex
+[预览] tex: /home/yyt/Downloads/gnome/payload/tex/home/.latexrc → /home/yyt/.latexrc
+[预览] rime: /home/yyt/Downloads/gnome/payload/rime/home/.local/share/fcitx5/rime → /home/yyt/.local/share/fcitx5/rime
+[预览] rime: /home/yyt/Downloads/gnome/payload/rime/home/.config/fcitx5 → /home/yyt/.config/fcitx5
+[预览] rime: /home/yyt/Downloads/gnome/payload/rime/home/.config/environment.d/fcitx.conf → /home/yyt/.config/environment.d/fcitx.conf
+[预览] rime: /home/yyt/Downloads/gnome/payload/rime/home/.config/autostart/org.fcitx.Fcitx5.desktop → /home/yyt/.config/autostart/org.fcitx.Fcitx5.desktop
+[预览] rime: /home/yyt/Downloads/gnome/payload/rime/home/.xinputrc → /home/yyt/.xinputrc
+[预览] theme: /home/yyt/Downloads/gnome/payload/theme/home/.themes → /home/yyt/.themes
+[预览] theme: /home/yyt/Downloads/gnome/payload/theme/home/.local/share/icons → /home/yyt/.local/share/icons
+[预览] theme: /home/yyt/Downloads/gnome/payload/theme/home/.config/gtk-3.0 → /home/yyt/.config/gtk-3.0
+[预览] fonts: /home/yyt/Downloads/gnome/payload/fonts/home/.local/share/fonts → /home/yyt/.local/share/fonts
+[预览] theme: /home/yyt/Downloads/gnome/payload/theme/system/usr/share/icons/whiteglass → /usr/share/icons/whiteglass
+[预览] fonts: /home/yyt/Downloads/gnome/payload/fonts/system/usr/share/fonts/truetype/ubuntu → /usr/share/fonts/truetype/ubuntu
+[预览] theme: /home/yyt/Downloads/gnome/payload/theme/home/Pictures/pic/【哲风壁纸】Windows-极简.png → /home/yyt/Pictures/pic/【哲风壁纸】Windows-极简.png
+[预览] theme: /home/yyt/Downloads/gnome/payload/theme/system/usr/share/backgrounds/ezspain-Ubuntu_Coffee_Mug_Light.png → /usr/share/backgrounds/ezspain-Ubuntu_Coffee_Mug_Light.png
+[预览结束] 没有改动。添加 DO=1 执行；GTK4 覆盖另用 make gtk4-apply。
+make: Leaving directory '/home/yyt/Downloads/gnome'
